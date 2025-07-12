@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "title": "Huggy Mix Sprunki Music Box",
+    "description": "Dive into the rhythm and create your own musical adventure in this exciting music game. Follow the beats, tap along to the music, and have fun with casual gameplay featuring three unique modes: health, ice, and bad man. Experience the energy and rhythm that will keep you entertained for hours.",
+    "buttonText": "Play Now"
+  },
+  "features": [
+    {
+      "icon": "🎵",
+      "title": "Rhythm Gameplay",
+      "description": "Master the beat with intuitive tap controls and rhythm-based gameplay that challenges your musical timing and coordination."
+    },
+    {
+      "icon": "🎮",
+      "title": "Three Game Modes",
+      "description": "Choose between health, ice, and bad man modes, each offering unique challenges and musical styles to keep gameplay fresh."
+    },
+    {
+      "icon": "🎼",
+      "title": "Music Creation",
+      "description": "Create unique tunes that reflect your personality and musical taste through interactive gameplay mechanics."
+    },
+    {
+      "icon": "⚡",
+      "title": "Energy & Fun",
+      "description": "Experience high-energy gameplay filled with vibrant visuals and engaging musical challenges that keep you entertained."
+    },
+    {
+      "icon": "🏆",
+      "title": "Score System",
+      "description": "Track your progress and compete for high scores across different modes and difficulty levels."
+    },
+    {
+      "icon": "🎯",
+      "title": "Casual Gaming",
+      "description": "Perfect for quick gaming sessions with easy-to-learn controls and addictive gameplay mechanics."
+    }
+  ],
+  "howToPlay": [
+    {
+      "title": "Basic Controls",
+      "description": "Learn the fundamental controls to master the rhythm and create amazing musical combinations.",
+      "steps": [
+        "Tap or click to hit the beats in time with the music",
+        "Follow the visual cues and rhythm patterns",
+        "Maintain your combo by hitting consecutive notes",
+        "Use special power-ups to enhance your performance"
+      ]
+    },
+    {
+      "title": "Game Modes",
+      "description": "Understand the three unique modes and their specific gameplay mechanics.",
+      "steps": [
+        "Health Mode: Focus on maintaining rhythm while managing health",
+        "Ice Mode: Navigate through frozen challenges with precision timing",
+        "Bad Man Mode: Face intense musical challenges with unique enemy mechanics",
+        "Switch between modes to experience different gameplay styles"
+      ]
+    },
+    {
+      "title": "Advanced Techniques",
+      "description": "Master advanced techniques to achieve higher scores and perfect performances.",
+      "steps": [
+        "Practice timing to hit perfect notes consistently",
+        "Learn to read complex rhythm patterns quickly",
+        "Use combo multipliers to maximize your score",
+        "Experiment with different musical styles and tempos"
+      ]
+    }
+  ],
+  "musicModes": {
+    "features": [
+      {
+        "icon": "❤️",
+        "text": "Health Mode - Balance rhythm gameplay with health management mechanics"
+      },
+      {
+        "icon": "❄️",
+        "text": "Ice Mode - Navigate through frozen challenges requiring precise timing"
+      },
+      {
+        "icon": "👹",
+        "text": "Bad Man Mode - Face intense musical challenges with unique enemy mechanics"
+      },
+      {
+        "icon": "🎵",
+        "text": "Rhythm Mastery - Perfect your timing and create amazing musical combinations"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Alex Johnson",
+      "text": "Amazing rhythm game! The three different modes keep things interesting and the music is incredibly catchy. I've been playing for hours and still discovering new combinations."
+    },
+    {
+      "name": "Sarah Chen",
+      "text": "Perfect for music lovers. The rhythm mechanics are intuitive and the visual effects are stunning. Love how each mode feels completely different."
+    },
+    {
+      "name": "Mike Rodriguez",
+      "text": "Best music game I've played online. The combo system is addictive and the different modes offer great variety. Highly recommend for rhythm game fans!"
+    },
+    {
+      "name": "Emma Wilson",
+      "text": "Great game for both casual and hardcore players. The difficulty progression is well-balanced and the musical elements are top-notch."
+    },
+    {
+      "name": "David Kim",
+      "text": "Incredible attention to detail in the rhythm mechanics. The different modes really change how you approach each musical challenge."
+    },
+    {
+      "name": "Lisa Thompson",
+      "text": "Addictive gameplay with smooth performance. The music variety keeps things fresh and the visual effects are excellent."
+    }
+  ],
+  "gameUpdates": [
+    {
+      "title": "New Music Modes Released",
+      "description": "Experience three unique gameplay modes: health, ice, and bad man. Each mode offers distinct challenges and musical styles to keep you entertained.",
+      "date": "March 15, 2025",
+      "fullContent": "We're excited to announce the release of our three distinct music modes! Health mode challenges players to maintain rhythm while managing health mechanics, ice mode introduces frozen challenges requiring precise timing, and bad man mode features intense musical challenges with unique enemy mechanics. Each mode has been carefully designed to offer different gameplay experiences while maintaining the core rhythm mechanics that players love. New musical tracks have been added specifically for each mode, and we've implemented a scoring system that rewards mastery of each unique style.",
+      "image": "image/img_new.jpg"
+    },
+    {
+      "title": "Rhythm System Enhancement",
+      "description": "Major improvements to the rhythm detection system and visual feedback. Enhanced accuracy and smoother gameplay experience for all players.",
+      "date": "April 10, 2025",
+      "fullContent": "This update focuses on perfecting the core rhythm mechanics that make our game so engaging. We've implemented advanced beat detection algorithms that provide more accurate timing feedback, improved visual cues that help players anticipate upcoming beats, and enhanced audio synchronization for a more immersive experience. The combo system has been refined to provide better feedback and more satisfying score multipliers. Mobile users will notice significant improvements in touch responsiveness, and all players will enjoy smoother frame rates during intense musical sequences.",
+      "image": "image/img_new2.jpg"
+    },
+    {
+      "title": "Music Library Expansion",
+      "description": "Introducing new musical tracks and genres with unique rhythm patterns and challenging gameplay mechanics.",
+      "date": "May 5, 2025",
+      "fullContent": "We've expanded our music library with dozens of new tracks across various genres! From energetic electronic beats to smooth jazz rhythms, there's something for every musical taste. Each new track features unique rhythm patterns and difficulty levels, ensuring that both beginners and experienced players will find challenges that match their skill level. The new tracks are available across all three game modes, and we've added special bonus tracks that unlock as players achieve high scores. This update also includes improved audio quality and better integration with the visual effects system.",
+      "image": "image/img_play.jpg"
+    }
+  ],
+  "trailDiaries": [
+    {
+      "title": "Behind the Scenes: Music Production Process",
+      "description": "Take a look at how we create the engaging musical tracks and rhythm patterns that players love to play along with.",
+      "date": "May 15, 2025",
+      "fullContent": "Creating engaging music for Huggy Mix Sprunki Music Box involves a complex process that combines musical composition with game design principles. Our music team starts with concept development, creating mood boards and musical sketches that establish the style and atmosphere of each track. We then compose original music that's specifically designed for rhythm gameplay, ensuring that each beat and melody works perfectly with our game mechanics. Each track goes through multiple iterations where we test rhythm patterns, difficulty balance, and player engagement. The health mode soundtrack took over two months to perfect, with countless adjustments to tempo, rhythm complexity, and musical progression. We also work closely with our game designers to ensure that each musical element enhances the overall gameplay experience.",
+      "image": "image/img_start.jpg"
+    },
+    {
+      "title": "Community Spotlight: Rhythm Masters",
+      "description": "Meet some of the most skilled rhythm players in our community and learn their strategies for mastering Huggy Mix Sprunki Music Box.",
+      "date": "June 10, 2025",
+      "fullContent": "This month we're highlighting three exceptional players who have consistently topped our leaderboards across all three game modes. RhythmQueen has mastered the art of perfect timing, achieving record scores on the most challenging tracks. IceMaster has revolutionized how players approach the ice mode, creating tutorials that have helped thousands of players improve their precision timing. And BadManSlayer has set unbeatable records on our most intense musical challenges. We interviewed each player about their strategies, favorite tracks, and tips for new players. Their insights have been invaluable in helping us understand what makes our rhythm game so engaging and how we can continue to improve the player experience.",
+      "image": "image/img_game2.jpg"
+    },
+    {
+      "title": "Development Update: Future Features",
+      "description": "Get a sneak peek at upcoming features and improvements planned for Huggy Mix Sprunki Music Box in the coming months.",
+      "date": "June 25, 2025",
+      "fullContent": "We're excited to share our development roadmap for the next six months! Q1 2025 will bring a comprehensive multiplayer rhythm system allowing players to compete against friends in real-time musical battles. We're also working on a tournament system with seasonal competitions and prizes for the best rhythm players. Q2 will introduce a story mode with narrative-driven musical missions and character progression. The story will follow a rookie musician's journey to becoming a rhythm legend. We're also planning major visual upgrades including improved particle effects, dynamic lighting that responds to the music, and more detailed character animations. Community feedback has been crucial in shaping these features, and we can't wait to see how players respond to these new additions.",
+      "image": "image/hiro.jpg"
+    }
+  ],
+  "contact": {
+    "email": "contact@huggymix.com",
+    "phone": "+61 412 345 678",
+    "address": "456 Music Street, Melbourne VIC 3000, Australia"
+  }
+}
