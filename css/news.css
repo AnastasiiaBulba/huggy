@@ -10,6 +10,7 @@
   color: var(--text-white);
   padding: var(--spacing-3xl) 0;
   text-align: center;
+  margin-top: 40px;
 }
 
 .page-title {
@@ -30,6 +31,7 @@
 .news-section {
   padding: var(--spacing-3xl) 0;
   margin-bottom: 2rem;
+  margin-top: 40px;
 }
 
 .news-section:nth-child(even) {

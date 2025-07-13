@@ -10,6 +10,7 @@
   color: var(--text-white);
   padding: var(--spacing-3xl) 0;
   text-align: center;
+  margin-top: 40px;
 }
 
 .page-title {
@@ -28,8 +29,9 @@
 
 /* Contact Info Section */
 .contact-info-section {
-  padding: var(--spacing-3xl) 0;
+  padding: var(--spacing-lg) 0;
   margin-bottom: 2rem;
+  margin-top: 40px;
 }
 
 .contact-grid {
@@ -39,7 +41,7 @@
 }
 
 .contact-card {
-  background-color: var(--bg-card);
+  background-color: transparent;
   padding: var(--spacing-xl);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
@@ -104,7 +106,7 @@
 
 .form-input,
 .form-textarea {
-  padding: var(--spacing-md);
+  padding: 15px;
   border: 2px solid #444444; /* Darker, more visible border */
   border-radius: var(--radius-md);
   font-size: var(--font-size-base);
@@ -145,7 +147,7 @@
 
 .form-submit {
   margin-top: var(--spacing-md);
-  padding: var(--spacing-md) var(--spacing-xl);
+  padding: 15px 30px;
   font-size: var(--font-size-lg);
   min-width: 160px;
 }
@@ -154,6 +156,7 @@
 .map-section {
   padding: var(--spacing-3xl) 0;
   margin-bottom: 2rem;
+  margin-top: 40px;
 }
 
 .map-container {
